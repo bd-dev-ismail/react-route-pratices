@@ -1,0 +1,15 @@
+.navbar{
+    margin-top: 20px;
+}
+.navbar a{
+    text-decoration: none;
+    padding: 10px 30px;
+    font-size: 18;
+    
+}
+.navbar a:hover{
+    background-color: aqua;
+}
+.active{
+    background-color: lawngreen;
+}
